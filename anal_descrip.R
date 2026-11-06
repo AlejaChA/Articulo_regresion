@@ -1,9 +1,9 @@
-###Instalacion de librerias###
+###Instalacion de paquetes###
 
 #install.packages("tidyverse")
 #install.packages("readxl")
 
-### Librerías utilizadas ###
+### Paquetes utilizados ###
 
 library(tidyverse)
 library(readxl)
